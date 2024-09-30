@@ -2,7 +2,7 @@ import java.util.Scanner;
 import static java.lang.Math.*;
 
 /**
- * BeautifulMatrix
+ * BeautifulMatrix #263A
  */
 public class BeautifulMatrix {
   static final int MATRIX_ROW = 5;
