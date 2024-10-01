@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * BearAndBrother
+ * BearAndBrother #791A
  */
 public class BearAndBrother {
   public static void main(String[] args) {
@@ -13,7 +13,7 @@ public class BearAndBrother {
     scan.close();
 
     int yearNeed = 0;
-
+    // look like kind of recuresion
     while (true) {
       if (limakWeight == bobWeight) {
         yearNeed++;
