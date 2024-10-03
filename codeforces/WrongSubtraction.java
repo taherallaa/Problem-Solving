@@ -9,6 +9,8 @@ public class WrongSubtraction {
     int n = scan.nextInt();
     int k = scan.nextInt();
 
+    scan.close();
+
     int result = n;
 
     for (int i = k; i > 0; i--) {
@@ -18,6 +20,7 @@ public class WrongSubtraction {
         result -= 1;
       }
     }
+
     System.out.println(result);
   }
 }

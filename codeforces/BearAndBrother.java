@@ -8,6 +8,7 @@ public class BearAndBrother {
     Scanner scan = new Scanner(System.in);
 
     int limakWeight = scan.nextInt();
+
     int bobWeight = scan.nextInt();
 
     scan.close();
