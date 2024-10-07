@@ -30,6 +30,7 @@ public class BeautifulYear {
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
     int year = scanner.nextInt();
+    scanner.close();
 
     int result = nextBeautifulYear(year);
     System.out.println(result);
