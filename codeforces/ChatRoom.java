@@ -7,6 +7,7 @@ public class ChatRoom {
   public static void main(String[] args) {
     Scanner scan = new Scanner(System.in);
     String input = scan.next();
+    scan.close();
 
     String target = "hello";
     int pointer = 0;
@@ -20,6 +21,7 @@ public class ChatRoom {
     }
 
     System.out.println("NO");
+
   }
 
 }
