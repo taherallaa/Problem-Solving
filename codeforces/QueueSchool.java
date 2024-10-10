@@ -15,8 +15,6 @@ public class QueueSchool {
 
     scan.close();
 
-    StringBuilder result = new StringBuilder();
-
     for (int i = 0; i < time; i++) {
       for (int j = 0; j < childernNumber - 1; j++) {
         int first = j;

@@ -16,6 +16,7 @@ public class EasyProblem {
       }
     }
     System.out.println("EASY");
+    scan.close();
   }
 
 }

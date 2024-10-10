@@ -19,5 +19,6 @@ public class Translation {
     } else {
       System.out.println("NO");
     }
+    scan.close();
   }
 }
