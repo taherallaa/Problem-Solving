@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * OrangeDrinks #318A
+ * OrangeDrinks #200A
  */
 public class OrangeDrinks {
   public static void main(String[] args) {
