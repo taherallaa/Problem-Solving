@@ -20,5 +20,6 @@ public class UltraFastMathematician {
       }
     }
     System.out.println(result);
+    scan.close();
   }
 }
