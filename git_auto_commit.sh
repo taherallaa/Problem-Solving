@@ -17,7 +17,7 @@ files=""
 # Loop to get file names
 for ((i = 1; i <= file_count; i++)); do
   read -p "Enter file name $i: " file_name
-  files+="$file_name "
+  files+="$file_name, "
 done
 
 # Add all changes in the current directory
@@ -27,7 +27,7 @@ git add .
 current_date=$(date +"%Y-%m-%d")
 
 # Commit with a message
-git commit -m "I solved $files... problem + $current_date"
+git commit -m "I solved $files problem in $current_date"
 
 # Push the changes to the remote repository
 git push
