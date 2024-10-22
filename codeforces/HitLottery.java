@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * HitLottery
+ * HitLottery #996A
  */
 public class HitLottery {
 
