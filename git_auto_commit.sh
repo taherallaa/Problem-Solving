@@ -27,7 +27,7 @@ git add .
 current_date=$(date +"%Y-%m-%d")
 
 # Commit with a message
-git commit -m "I solved $files problem in $current_date"
+git commit -m "Solve $files problem in $current_date"
 
 # Push the changes to the remote repository
 git push
