@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * KefaFirstSteps #589A
+ * KefaFirstSteps #580A
  */
 public class KefaFirstSteps {
 

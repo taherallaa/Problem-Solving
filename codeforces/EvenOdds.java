@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import static java.lang.Math.ceil;
 
 /**
  * EvenOdds #318A

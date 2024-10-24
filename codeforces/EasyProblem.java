@@ -12,6 +12,7 @@ public class EasyProblem {
     for (int i = 0; i < numAskedPeopole; i++) {
       if (scan.nextInt() == 1) {
         System.out.println("HARD");
+        scan.close();
         return;
       }
     }

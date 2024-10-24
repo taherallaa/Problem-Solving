@@ -20,5 +20,6 @@ public class StonesTable {
       currentColor = stoneColor.charAt(i);
     }
     System.out.println(removedStone);
+    scan.close();
   }
 }

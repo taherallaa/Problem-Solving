@@ -7,9 +7,6 @@ public class YoungPhysicist {
   public static void main(String[] args) {
     Scanner scan = new Scanner(System.in);
     int LINE = scan.nextInt();
-    int result = 0;
-
-    int[][] force = new int[LINE][3];
 
     int[] idelBody = { 0, 0, 0 };
 

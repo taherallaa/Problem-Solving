@@ -23,5 +23,6 @@ public class VanyaFence {
     }
 
     System.out.println(miniWidth);
+    scan.close();
   }
 }
